@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture/)
+> Android架构文章合集
+
 #### [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
 > A curated list of awesome android testing libraries.
 
@@ -56,6 +59,9 @@
 
 ### iOS部分
 
+#### [CocoaConferences](https://github.com/Lascorbe/CocoaConferences)
+> List of cocoa conferences for iOS & OSX developers.
+
 #### [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
 > All the resources for Learning About Swift
 
@@ -104,6 +110,15 @@
 
 ### 前端部分
 
+#### [awesome-npm](https://github.com/sindresorhus/awesome-npm?utm_source=javascriptweekly&utm_medium=email)
+> Awesome npm resources and tips
+
+#### [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+>前端开发书签资源整理
+
+#### [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
+> Essential JavaScript website.
+
 #### [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 > JavaScript 资源大全中文版
 
@@ -145,6 +160,21 @@
 
 
 ### 其它部分
+
+#### [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas)
+> List of awesome app ideas
+
+#### [awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
+> Continuing the development of awesome-c list on GitHub
+
+#### [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+> An awesome list of high-quality open datasets in public domains (on-going).
+
+#### [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+> A list of helpful back-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+#### [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
+> 如何成长为一个程序员
 
 #### [github-blogs](https://github.com/yutingzhao1991/github-blogs)
 > Github上Issues博客的收集和定期推送服务，watch本项目可接收推送。
